@@ -54,7 +54,7 @@ body {
 /* Welcome Image and Text */
 .welcome-section {
   height: 100vh;
-  background-image: url(../assets/imgs/brain_bg_square.png);
+  background-image: url(../imgs/brain_bg_square.png);
   background-size: cover;
   background-position: center;
   display: flex;
